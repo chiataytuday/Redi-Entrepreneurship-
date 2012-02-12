@@ -1,0 +1,3 @@
+/Users/admin/Desktop/NewREDIApp v13/Classes/WebViewController.m:14: error: no declaration of property 'dc' found in the interface
+/Users/admin/Desktop/NewREDIApp v13/Classes/WebViewController.m: In function '-[WebViewController viewDidLoad]':
+/Users/admin/Desktop/NewREDIApp v13/Classes/WebViewController.m:32: error: request for member 'dc' in something not a structure or union
